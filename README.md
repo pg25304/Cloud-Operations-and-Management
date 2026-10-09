@@ -1,4 +1,3 @@
-
 # Cloud Operations and Management — e-Portfolio
 
 **MSc Cybersecurity | University of Essex Online | 2026**
@@ -12,6 +11,36 @@ The portfolio brings together academic discussions, cloud architecture, infrastr
 Particular attention is given to practical implementation, troubleshooting, critical evaluation and the relationship between cloud technologies and organisational requirements.
 
 The supporting technical projects are maintained in separate GitHub repositories, allowing the full implementation evidence to be examined without duplicating reports.
+
+## Academic Learning and Evidence Indexes
+
+The following indexes document my academic activities, seminar preparation, practical projects and learning reflections. They provide a structured record of my work throughout the module while keeping original university materials and confidential evidence private.
+
+### Academic Study and Learning Evidence
+
+- [LectureCast Notes](LectureCast-Notes/README.md) — Study notes, technical explanations and revision materials from six module LectureCasts.
+
+- [Learning Reflections](Reflections/README.md) — Five individual reflections covering cloud knowledge, technical learning, collaboration and professional development.
+
+- [Formative Discussions](Formative-Discussions/README.md) — Academic discussions, peer interactions, research and practical learning activities across selected module units.
+
+- [Seminar Preparation](Seminar-Preparation/README.md) — Independent research and preparation materials for four seminars, including cloud architecture, Infrastructure as Code, AI-driven cloud computing and hybrid cloud technologies.
+
+### Practical and Collaborative Evidence
+
+- [Group Project Evidence](Group-Project-Evidence/README.md) — Unit 6 cloud infrastructure group project, including my individual contribution and Azure Bicep Proof of Concept implementation evidence.
+
+- [Practical Projects](Practical-Projects/README.md) — Seven technical project reports covering Azure infrastructure, automation, container security, disaster recovery, database migration, serverless computing and AI deployment.
+
+### Evidence Access and Organisation
+
+The public GitHub indexes provide summaries of completed work, relevant technical links and references to the original study records.
+
+Original Word documents, supporting screenshots and university learning materials are preserved separately in my private university OneDrive workspace.
+
+Restricted, read-only access to appropriate original evidence can be provided to the tutor through the assessed e-Portfolio submission.
+
+The public indexes do not reproduce confidential university materials, other students' contributions or sensitive technical information.
 
 ## Module Learning Areas
 
@@ -41,11 +70,13 @@ The following repositories document implementation work, testing results, challe
 ### Cloud Security
 
 - [Docker Container Security Audit](https://github.com/pg25304/Docker-Container-Security-Audit) — OpenVAS vulnerability assessment, risk evaluation and mitigation recommendations.
+
 - [Azure AKS Container Security Hardening](https://github.com/pg25304/Azure-AKS-Container-Security-Hardening) — Kubernetes security, network controls, vulnerability assessment and infrastructure hardening.
 
 ### Disaster Recovery and Cloud Migration
 
 - [Azure Disaster Recovery with Restic](https://github.com/pg25304/Azure-Disaster-Recovery-with-Restic) — Cloud backup, recovery testing, infrastructure automation and recovery objectives.
+
 - [Secure Azure MySQL Migration](https://github.com/pg25304/azure-mysql-secure-migration) — Secure database migration, private connectivity, encryption and data validation.
 
 ### Cloud-Native and Serverless Computing
@@ -55,6 +86,7 @@ The following repositories document implementation work, testing results, challe
 ### Artificial Intelligence and Cloud Computing
 
 - [TensorFlow Image Recognition on Azure](https://github.com/pg25304/tensorflow-image-recognition-azure) — Machine learning, containerisation, cloud deployment, testing and evaluation.
+
 - [Azure AI Helpdesk Assistant](https://github.com/pg25304/azure-ai-helpdesk-assistant) — Exploring AI integration with Azure applications and cloud infrastructure.
 
 ## Academic Reflections and Skills Development
@@ -67,13 +99,17 @@ The practical work also highlighted the importance of understanding platform lim
 
 The portfolio evaluates both successful implementations and technical challenges, recognising that a working deployment alone does not establish production readiness.
 
-Selected academic reflections, formative activities and seminar preparation materials will be added to this repository following a review for relevance and confidentiality.
+Academic reflections, formative discussions, seminar preparation, collaborative activities and practical project evidence are documented in the six linked evidence indexes above.
+
+These records demonstrate the development of technical understanding and practical skills, while also identifying limitations and areas for further professional improvement.
 
 ## Industry Application
 
 The projects demonstrate principles relevant to organisations modernising their IT infrastructure.
 
 Cloud migration, resilience, identity management, automation and security must be considered together. Technical decisions require evaluation against operational requirements, financial constraints, compliance obligations and long-term maintainability.
+
+The practical experience gained during the module reinforces the importance of secure architecture, access control, testing, monitoring and recovery planning when designing and managing cloud services.
 
 ## Future Professional Development
 
@@ -89,6 +125,12 @@ Future development will focus on:
 
 This repository is a curated academic and technical portfolio.
 
-Original project reports and supporting evidence are linked where appropriate. Sensitive credentials, private keys, confidential university records and identifiable information relating to other students are excluded from public publication.
+Public technical repositories contain project documentation and selected implementation evidence. The academic evidence indexes describe the associated private university study records.
+
+Original study documents remain in private storage and are not automatically available for public download.
+
+Sensitive credentials, private keys, confidential university records and identifiable information relating to other students are excluded from public publication.
 
 The repository supports the separate 2,000-word assessed reflective e-Portfolio, which contains the academic evaluation and references.
+
+The aim is to present an accurate, transparent and professionally organised record of learning, practical implementation, technical challenges and continuing development.
